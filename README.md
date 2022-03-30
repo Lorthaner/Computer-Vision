@@ -1,1 +1,1 @@
-
+This repository contains research and experiments with different neural network architectures, data augmentations etc. Each notebook reflects the progress implemented in image classification since 2012. 
